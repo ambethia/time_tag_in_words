@@ -1,0 +1,3 @@
+= TimeTagInWords
+
+Rails helper, giving convenient tags for timestamps.

@@ -1,0 +1,3 @@
+module TimeTagInWords
+  VERSION = "0.0.1"
+end
